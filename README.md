@@ -4,7 +4,7 @@ Este es mi repositorio del proyecto de GifExpertApp de React con HTML y javascri
 
 # Instalacion de Modulos
 
-yarn 
+yarn install
 
 # Echar andar el proyecto
 
